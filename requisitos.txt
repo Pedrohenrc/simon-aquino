@@ -1,5 +1,1 @@
 
-
-
-
-RF10 - O sistema deve aceitar PIX.
